@@ -1,13 +1,6 @@
 
-title: SponsorshipWeb
-emoji: 👀
-colorFrom: purple
-colorTo: gray
-sdk: gradio
-sdk_version: 5.28.0
-app_file: app.py
-pinned: false
-short_description: Website for sponsors to look for eligible students
+ Sponsorship Platform 
 
+A web based platform that connects sponsors to students who need monetory support .It helps student showcase their  achievements whether in sport or academics or other fields.
 
 check out the platform here: https://huggingface.co/spaces/sj-6/SponsorshipWeb
